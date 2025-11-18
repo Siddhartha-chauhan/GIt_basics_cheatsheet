@@ -1,4 +1,4 @@
-# 🧠 Understanding Basic Git Commands
+# Understanding Basic Git Commands
 
 Git is a distributed version control system that helps developers track changes in their codebase and collaborate efficiently.  
 Here’s a beginner-friendly explanation of some of the most essential Git commands — perfect for a 15-minute talk!
@@ -97,7 +97,7 @@ Here’s a simple workflow example you can follow:
 
 ---
 
-## 🧩 Key Concepts  
+## Key Concepts  
 
 **Staging Area:**  
 Where changes wait before being committed — like a “to-do” list for Git.  
@@ -108,13 +108,13 @@ It tells you which branch and commit you are currently on.
 
 ---
 
-## 💡 Tip for Beginners  
+## Tip for Beginners  
 - Use **git status** often — it keeps you informed about what’s happening.  
 - Write meaningful commit messages to understand your progress later.  
 - Branches are your best friends — use them to experiment safely.
 
 ---
 
-### 🚀 Conclusion  
+### Conclusion  
 Git helps you track, manage, and collaborate on code efficiently.  
 Once you master these commands, you’ll be comfortable managing any project version control workflow.
